@@ -15,4 +15,5 @@
 -->
 <resources>
     <string name="app_name">Explicit Intent</string>
+    <string name="childactivity_textview_default">Default Text</string>
 </resources>
